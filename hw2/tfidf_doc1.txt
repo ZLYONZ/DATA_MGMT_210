@@ -1,0 +1,1 @@
+[('surface', 0.16), ('average', 0.16), ('rise', 0.16), ('temperature', 0.11), ('fossil', 0.11)]

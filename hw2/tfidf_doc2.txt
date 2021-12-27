@@ -1,0 +1,1 @@
+[('weather', 0.1), ('change', 0.1), ('levels', 0.1), ('climate', 0.1), ('place', 0.1)]
